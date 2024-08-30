@@ -53,7 +53,7 @@ export class DialogContentComponent implements OnInit {
   carregaListaPesquisaMOCK() {
     if (this.textPesquisa) {
       let item = new PesquisaRequest();
-      item.ParamCampoPesquisa = this.textPesquisa;
+      item.Search = this.textPesquisa;
   
       let response  =  [
         {

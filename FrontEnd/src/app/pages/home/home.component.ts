@@ -42,7 +42,7 @@ export class HomeComponent implements OnInit {
 
 
   openPopup() {
-    this.carregaListaPesquisaMOCK();
+    this.carregaListaPesquisa();
   }
 
   openDialog(dialogType: number) {
@@ -52,6 +52,7 @@ export class HomeComponent implements OnInit {
       const dialogRef = this.dialog.open(DialogContentComponent);
       dialogRef.componentInstance.dialogType = dialogType;
       dialogRef.componentInstance.textPesquisa = this.textPesquisa;
+      debugger
       dialogRef.componentInstance.tabela = this.tabela;
       dialogRef.afterClosed().subscribe(result => {
         console.log(`Dialog result: ${result}`);
@@ -138,14 +139,16 @@ export class HomeComponent implements OnInit {
 
     // this.openDialogConfirm();    
 
-    // this.pesquisaService.addEmpresa(this.empresaModel)
-    //   .subscribe((response: any) => {
-    //     if (response) {
-    //      this.empresaModel = new  EmpresaModel();
-    //       this.openDialogConfirm();
-    //     }
-    //   },
-    //     error => console.error(error));
+    this.empresaModel.CNPJ_CPF=  "123.456.789-00";
+
+    this.pesquisaService.addEmpresa(this.empresaModel)
+      .subscribe((response: any) => {
+        if (response) {
+         this.empresaModel = new  EmpresaModel();
+          this.openDialogConfirm();
+        }
+      },
+        error => console.error(error));
   }
 
   // Função para validar o formato do e-mail
@@ -160,43 +163,78 @@ export class HomeComponent implements OnInit {
   carregaListaPesquisa() {
     if (this.textPesquisa) {
       let item = new PesquisaRequest();
-      item.ParamCampoPesquisa = this.textPesquisa;
-      this.pesquisaService.ListPesquisa(item)
+      item.Search = this.textPesquisa;
+      this.pesquisaService.ListLikeEmpresa(item)
         .subscribe((response: EmpresaModel[]) => {
 
           if (response && response.length > 0) {
 
+            // const SimulandoDadosBanco: EmpresaModel[] = [];
+            // const rows: RowTable[] = [];
+
+            // response.forEach(pesquisaResult => {
+            //   SimulandoDadosBanco.push(pesquisaResult);
+            // });
+
+            // var cont = 1;
+            // var listtablePage = [];
+            // SimulandoDadosBanco.forEach(x => {
+
+
+            //   if (cont <= 4) {
+            //     listtablePage.push(x);
+            //     cont++;
+            //   }
+            //   else {
+
+            //     var itemTable = new RowTable();
+            //     itemTable.tableData = listtablePage;
+            //     rows.push(itemTable);
+
+            //     listtablePage = [];
+            //     cont = 1;
+            //   }
+
+            // })
+
+            // this.tabela = rows;
+
+            // this.openDialog(1);
+
+
             const SimulandoDadosBanco: EmpresaModel[] = [];
             const rows: RowTable[] = [];
-
+      
             response.forEach(pesquisaResult => {
               SimulandoDadosBanco.push(pesquisaResult);
             });
-
+      
             var cont = 1;
             var listtablePage = [];
             SimulandoDadosBanco.forEach(x => {
-
-
+      
+      
               if (cont <= 4) {
                 listtablePage.push(x);
                 cont++;
               }
               else {
-
+      
                 var itemTable = new RowTable();
                 itemTable.tableData = listtablePage;
                 rows.push(itemTable);
-
+      
                 listtablePage = [];
                 cont = 1;
               }
-
+      
             })
-
+      
+            debugger
             this.tabela = rows;
-
+      
             this.openDialog(1);
+
           }
           else {
             this.openDialogNoData();
@@ -212,7 +250,7 @@ export class HomeComponent implements OnInit {
   carregaListaPesquisaMOCK() {
     if (this.textPesquisa) {
       let item = new PesquisaRequest();
-      item.ParamCampoPesquisa = this.textPesquisa;
+      item.Search = this.textPesquisa;
 
       let response = [
         {
@@ -338,7 +376,7 @@ export class HomeComponent implements OnInit {
       ] as EmpresaModel[];
 
 
-      debugger
+      
       const SimulandoDadosBanco: EmpresaModel[] = [];
       const rows: RowTable[] = [];
 

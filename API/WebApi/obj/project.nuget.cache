@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6jhk9SVvYZ4ycUDVvxdhUpTp3srE77VWnApiahrQVU21fj/XdUkLLc7lzcAqfBGlegqHhBL7Uf6qRGJtfkKv5Q==",
+  "dgSpecHash": "RSW9CIxfa/OukE+c18wlA8wZDKV6Us/aUY4r3WJnGZMGGNB2mTWOSPDRoZNPP3tNHQwTdEqRv6+TOZjSZDZKlQ==",
   "success": true,
-  "projectFilePath": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valdir.silva\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\valdir.silva\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -22,6 +22,6 @@ export class PesquisaResult {
 
   export class PesquisaRequest
   {
-    ParamCampoPesquisa:string;
+    Search:string;
   }
   

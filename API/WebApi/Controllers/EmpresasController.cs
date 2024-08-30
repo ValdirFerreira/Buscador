@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WebApi.Entities;
+using WebApi.Models;
 using WebApi.Repository;
 
 namespace WebApi.Controllers
@@ -24,6 +25,14 @@ namespace WebApi.Controllers
         public async Task<object> ListEmpresa()
         {
             return await _InterfaceEmpresa.List();
+        }
+
+        [HttpPost("/api/ListLikeEmpresa")]
+        [Produces("application/json")]
+        public async Task<object> ListLikeEmpresa(SearchRequest request)
+        {
+
+            return await _InterfaceEmpresa.ListLike(request.Search);
         }
 
         [HttpPost("/api/AddEmpresa")]

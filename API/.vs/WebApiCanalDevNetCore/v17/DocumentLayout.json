@@ -1,38 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\",
+  "WorkspaceRootPath": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscar\\projetobuscador\\api\\webapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscar\\projetobuscador\\api\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscar\\projetobuscador\\api\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscar\\projetobuscador\\api\\webapi\\entities\\empresamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\repository\\repositoryempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repository\\repositoryempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\repository\\interfaceempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repository\\interfaceempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\entities\\empresamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\entities\\empresamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscar\\projetobuscador\\api\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Migrations\\20240830015841_Inicial_BD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Migrations\\20240830015841_Inicial_BD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscar\\projetobuscador\\api\\webapi\\config\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\config\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\config\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscar\\projetobuscador\\api\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\projeto_pessoal\\projetobuscador\\api\\webapi\\migrations\\20240830015841_inicial_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\migrations\\20240830015841_inicial_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,11 +62,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Models\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\SearchRequest.cs",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Models\\SearchRequest.cs",
+              "RelativeToolTip": "WebApi\\Models\\SearchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:53:30.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryEmpresa.cs",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Repository\\RepositoryEmpresa.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repository\\RepositoryEmpresa.cs",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Repository\\RepositoryEmpresa.cs",
+              "RelativeToolTip": "WebApi\\Repository\\RepositoryEmpresa.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAD4vzMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:45:18.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "InterfaceEmpresa.cs",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Repository\\InterfaceEmpresa.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repository\\InterfaceEmpresa.cs",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Repository\\InterfaceEmpresa.cs",
+              "RelativeToolTip": "WebApi\\Repository\\InterfaceEmpresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:44:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,94 +114,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebApi",
-              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\WebApi.csproj",
+              "DocumentIndex": 7,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\WebApi.csproj",
               "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
-              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\WebApi.csproj",
               "RelativeToolTip": "WebApi\\WebApi.csproj",
               "ViewState": "AQIAAAIAAAAAAAAAAAAgwA8AAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-30T02:05:05.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T02:05:05.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Program.cs",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Program.cs",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T02:03:06.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmpresasController.cs",
-              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Controllers\\EmpresasController.cs",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Controllers\\EmpresasController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\EmpresasController.cs",
-              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Controllers\\EmpresasController.cs",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Controllers\\EmpresasController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\EmpresasController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA2wCIAAAAQAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA3wCgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T01:59:54.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "20240830015841_Inicial_BD.cs",
-              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Migrations\\20240830015841_Inicial_BD.cs",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Migrations\\20240830015841_Inicial_BD.cs",
               "RelativeDocumentMoniker": "WebApi\\Migrations\\20240830015841_Inicial_BD.cs",
-              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Migrations\\20240830015841_Inicial_BD.cs",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Migrations\\20240830015841_Inicial_BD.cs",
               "RelativeToolTip": "WebApi\\Migrations\\20240830015841_Inicial_BD.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:58:41.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:58:41.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ContextBase.cs",
-              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Config\\ContextBase.cs",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Config\\ContextBase.cs",
               "RelativeDocumentMoniker": "WebApi\\Config\\ContextBase.cs",
-              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Config\\ContextBase.cs",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Config\\ContextBase.cs",
               "RelativeToolTip": "WebApi\\Config\\ContextBase.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:56:01.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:56:01.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EmpresaModel.cs",
-              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Entities\\EmpresaModel.cs",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Entities\\EmpresaModel.cs",
               "RelativeDocumentMoniker": "WebApi\\Entities\\EmpresaModel.cs",
-              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\Entities\\EmpresaModel.cs",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\Entities\\EmpresaModel.cs",
               "RelativeToolTip": "WebApi\\Entities\\EmpresaModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T01:54:33.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\appsettings.json",
+              "DocumentMoniker": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscar\\ProjetoBuscador\\API\\WebApi\\appsettings.json",
+              "ToolTip": "C:\\PROJETO_PESSOAL\\ProjetoBuscador\\API\\WebApi\\appsettings.json",
               "RelativeToolTip": "WebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T01:53:17.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:53:17.808Z"
             }
           ]
         }

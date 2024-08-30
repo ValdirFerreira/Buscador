@@ -27,9 +27,16 @@ export class PesquisaService {
     );
   }
 
+  ListLikeEmpresa(model:PesquisaRequest) {
+    return this.httpClient.post<Array<EmpresaModel>>(
+      `${this.baseUrl}/ListLikeEmpresa/`,
+      model
+    );
+  }
+
   addEmpresa(empresa: EmpresaModel) {
     return this.httpClient.post<any>(
-      `${this.baseUrl}/Empresas/Add/`,
+      `${this.baseUrl}/AddEmpresa/`,
       empresa
     );
   }
