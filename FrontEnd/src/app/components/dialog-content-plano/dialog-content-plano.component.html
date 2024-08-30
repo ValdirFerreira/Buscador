@@ -1,0 +1,143 @@
+<div class="dialog-plano">
+
+
+  <div *ngIf="!openDetails">
+    <div class="header-dialog">
+      <div>
+        <!-- <h2 mat-dialog-title class="title-dialog">Resultados</h2> -->
+      </div>
+      <div mat-dialog-close class="icone-close-dialog">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+          <path
+            d="M15 9L12 12M12 12L9 15M12 12L15 15M12 12L9 9.00001M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z"
+            stroke="#21222C" stroke-width="2" stroke-linecap="round" />
+        </svg>
+      </div>
+    </div>
+
+    <mat-dialog-content class="mat-typography">
+      <!-- <div class="sub-title-dialog">Deseja aprovar o entrevistador? Será enviado um e-mail com os acessos inseridos aqui
+      para
+      aprovação!</div> -->
+
+      <!-- // Conteudo aqui -->
+
+
+
+      <div class="container-tabela-principal">
+        <div class="form-register">
+
+          <div class="componente-p">
+
+            <div class="wrapper">
+              <div class="box">
+
+                <div class="title-9 align-text-inter">
+                  {{'T76' | translate}}
+                </div>
+
+
+                <div class="sub-title-4 align-text-inter">
+                  {{'T77' | translate}}
+                </div>
+
+              </div>
+            </div>
+
+
+            <br />
+
+            <div class="wrapper-form">
+              <div class="box-form">
+                <div>
+                  <label>{{'T60' | translate}}</label>
+                </div>
+                <div>
+                  <input type="text" [(ngModel)]="Nombres" [ngClass]="{'empty-input': validNombres}" />
+                </div>
+                <div>
+                  <label class="label-valid" [ngClass]="{'empty-label': validNombres}">{{'T65' | translate}}</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="wrapper-form">
+              <div class="box-form">
+                <div>
+                  <label>{{'T78' | translate}}</label>
+                </div>
+                <div>
+                  <input type="text" [(ngModel)]="Telefono" [ngClass]="{'empty-input': validTelefono}" />
+                </div>
+                <div>
+                  <label class="label-valid" [ngClass]="{'empty-label': validTelefono}">{{'T65' | translate}}</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="wrapper-form">
+              <div class="box-form">
+                <div>
+                  <label>{{'T61' | translate}}</label>
+                </div>
+                <div>
+                  <input type="text" [(ngModel)]="CorreoElectronico"
+                    [ngClass]="{'empty-input': validCorreoElectronico}" />
+                </div>
+                <div>
+                  <label class="label-valid" [ngClass]="{'empty-label': validCorreoElectronico}">{{'T65' |
+                    translate}}</label>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="wrapper-form">
+              <div class="box-form">
+                <div>
+                  <label>{{'T62' | translate}}</label>
+                </div>
+                <div>
+                  <textarea [(ngModel)]="Comentario" [ngClass]="{'empty-input': validComentario}">
+
+                          </textarea>
+                </div>
+
+              </div>
+
+            </div>
+
+
+            <div class="wrapper-form">
+              <div class="box-form">
+
+                <div>
+                  <div class="btn-send" (click)="sendData()">
+                    <div class="text">
+                      {{'T63' | translate}}
+                    </div>
+                    <div class="text">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                        <path d="M9 18L15 12L9 6" stroke="white" stroke-width="2" stroke-linecap="round"
+                          stroke-linejoin="round" />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+
+
+
+    </mat-dialog-content>
+  </div>
+
+
+</div>

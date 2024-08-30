@@ -1,0 +1,8 @@
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net8.0/WebApi.csproj.AssemblyReference.cache
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net8.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net8.0/WebApi.AssemblyInfoInputs.cache
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net8.0/WebApi.AssemblyInfo.cs
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net8.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net8.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net8.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net8.0/WebApi.sourcelink.json

@@ -1,0 +1,170 @@
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/appsettings.json
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/WebApi.staticwebassets.runtime.json
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/WebApi
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/WebApi.deps.json
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/WebApi.runtimeconfig.json
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/WebApi.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/WebApi.pdb
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Humanizer.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/System.CodeDom.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.csproj.AssemblyReference.cache
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.AssemblyInfoInputs.cache
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.AssemblyInfo.cs
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.WebApi.props
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApi.props
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebApi.props
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/scopedcss/bundle/WebApi.styles.css
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.csproj.CopyComplete
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/refint/WebApi.dll
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.pdb
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
+/Users/valdirferreira/DimeCompletoGit - cópia/Api/API_NET8_IDENTITY_CSHARP/WebApi/obj/Debug/net7.0/ref/WebApi.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\appsettings.json
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\WebApi.staticwebassets.runtime.json
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.csproj.Up2Date
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJETO_PESSOAL\ProjetoBuscar\ProjetoBuscador\API\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll

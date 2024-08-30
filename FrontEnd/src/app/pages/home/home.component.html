@@ -1,0 +1,223 @@
+<router-outlet></router-outlet>
+
+<!-- <app-sidebar></app-sidebar> -->
+<app-navbar></app-navbar>
+
+
+<div class="container-base-page">
+
+
+    <div *ngIf="!pesquisaService.cadastroEmpresa"  class="container">
+
+        <div class="wrapper wrapper-img-box">
+            <div class="box">
+                <div class="title-1">
+                    <!-- {{'T0' | translate}} -->
+                    Encontre tudo o que você precisa em poucos cliques
+                </div>
+
+                <div class="sub-title-1">
+                    <!-- {{'T1' | translate}} -->
+                    Pesquise serviços, profissões, empresas, vagas de emprego e muito mais.
+                </div>
+
+
+                <div class="search-container">
+                    <!-- <input [(ngModel)]="textPesquisa" type="text" [maxLength]="60" class="txt-search"  [ngClass]="{'empty-input': !textPesquisaValid}"  placeholder="Buscador de entidades">
+                    <button (click)="openPopup()" class="search-btn">Buscar Entidades</button> -->
+
+                    <mat-form-field appearance="outline" class="example-full-width"
+                        [ngClass]="{'empty-input': !textPesquisaValid}">
+
+                        <input matInput [(ngModel)]="textPesquisa" type="text" [maxLength]="60"
+                            placeholder="Buscar">
+                        <div class="btn-salvar">
+                            <button (click)="openPopup()" class="search-btn">Buscar</button>
+                        </div>
+                    </mat-form-field>
+
+                </div>
+
+                <div class="search-container-mobile">
+                    <!-- <input  [ngClass]="{'empty-input': !textPesquisaValid}"  [(ngModel)]="textPesquisa" type="text" [maxLength]="29" class="txt-search" placeholder="Buscador de entidades">
+                    <button (click)="openPopup()" class="search-btn">Buscar</button> -->
+                    <mat-form-field appearance="outline" class="example-full-width"
+                        [ngClass]="{'empty-input': !textPesquisaValid}">
+
+                        <input matInput [(ngModel)]="textPesquisa" type="text" [maxLength]="60"
+                            placeholder="Buscar">
+                        <div class="btn-salvar">
+                            <button (click)="openPopup()" class="search-btn">Buscar</button>
+                        </div>
+                    </mat-form-field>
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <div *ngIf="pesquisaService.cadastroEmpresa"  class="container-6" >
+        <div class="wrapper">
+        
+            <div class="box-auto">
+
+               
+
+
+                <div class="form-register">
+
+                    <div class="componente-9">
+
+                        <div class="wrapper">
+                            <div class="box">
+
+                                <div class="title-9 align-text-inter">
+                                    Cadastre empresas, serviços e tudo o que precisar
+                                </div>
+
+
+                                <div class="sub-title-4 align-text-inter">
+                                    Nos campos abaixo, informe os dados do seu serviço ou da sua empresa e lembre-se de expressar seu objetivo em poucas palavras para ser facilmente encontrado.
+                                </div>
+
+                            </div>
+                        </div>
+
+
+                        <div class="wrapper-form">
+                            <div class="box-form">
+                                <div>
+                                    <label>Nome Empresa</label>
+                                </div>
+                                <div>
+                                    <input type="text" [(ngModel)]="empresaModel.Name"
+                                        [ngClass]="{'empty-input': validName}" />
+                                </div>
+                                <div>
+                                    <label class="label-valid" [ngClass]="{'empty-label': validName}">Campo Obrigatório</label>
+                                </div>
+                            </div>
+                            <div class="box-form">
+                                <div>
+                                    <label>Descricao</label>
+                                </div>
+                                <div>
+                                    <input type="text" [(ngModel)]="empresaModel.Descricao"
+                                        [ngClass]="{'empty-input': validDescricao}" />
+                                </div>
+                                <div>
+                                    <label class="label-valid"
+                                        [ngClass]="{'empty-label': validDescricao}">Campo Obrigatório</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wrapper-form">
+                            
+                            <div class="box-form">
+                                <div>
+                                    <label>Razao</label>
+                                </div>
+                                <div>
+                                    <input type="text" [(ngModel)]="empresaModel.Razao"
+                                        [ngClass]="{'empty-input': validRazao}" />
+                                </div>
+                                <div>
+                                    <label class="label-valid"
+                                        [ngClass]="{'empty-label': validRazao}">Campo Obrigatório</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wrapper-form">
+                            <div class="box-form">
+                                <div>
+                                    <label>Telefone</label>
+                                </div>
+                                <div>
+                                    <input type="text" [(ngModel)]="empresaModel.Telefone"
+                                        [ngClass]="{'empty-input': validTelefone}" />
+                                </div>
+                                <div>
+                                    <label class="label-valid" [ngClass]="{'empty-label': validTelefone}">Campo Obrigatório</label>
+                                </div>
+                            </div>
+                            <div class="box-form">
+                                <div>
+                                    <label>Cidade</label>
+                                </div>
+                                <div>
+                                    <input type="text" [(ngModel)]="empresaModel.Cidade"
+                                        [ngClass]="{'empty-input': validCidade}" />
+                                </div>
+                                <div>
+                                    <label class="label-valid" [ngClass]="{'empty-label': validCidade}">Campo Obrigatório</label>
+                                </div>
+                            </div>
+                           
+                        </div>
+                        <div class="wrapper-form">
+                            
+                            <div class="box-form">
+                                <div>
+                                    <label>Endereco</label>
+                                </div>
+                                <div>
+                                    <input type="text" [(ngModel)]="empresaModel.Endereco"
+                                        [ngClass]="{'empty-input': validEndereco}" />
+                                </div>
+                                <div>
+                                    <label class="label-valid"
+                                        [ngClass]="{'empty-label': validEndereco}">Campo Obrigatório</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wrapper-form" style="height: 186px;">
+                            <div class="box-form">
+                                <div>
+                                    <label>Produto/ Servicos prestados </label>
+                                </div>
+                                <div>
+                                    <textarea [(ngModel)]="empresaModel.Observacao" [ngClass]="{'empty-input': validObservacao}">
+
+                                    </textarea>
+                                </div>
+                                <div>
+                                    <label class="label-valid"
+                                        [ngClass]="{'empty-label': validObservacao}">Campo Obrigatório</label>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="wrapper-form">
+                            <div class="box-form">
+
+                                <div>
+                                    <div class="btn-send" (click)="sendData()">
+                                        <div class="text">
+                                           Enviar para análise
+                                        </div>
+                                       
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
