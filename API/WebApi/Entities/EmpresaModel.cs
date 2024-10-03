@@ -1,4 +1,4 @@
-﻿namespace WebApi.Entities
+namespace WebApi.Entities
 {
     public class EmpresaModel
     {
@@ -28,6 +28,11 @@
         /// Pessoa Fisica ou Juridica
         /// </summary>
         public int TipoPessoa { get; set; }
+
+
+        public DateTime DataCadastro { get; set; }
+
+        public DateTime DataAlteracao { get; set; }
 
 
     }
