@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using WebApi.Config;
 using WebApi.Entities;
 
@@ -17,6 +17,10 @@ namespace WebApi.Repository
 
         public async Task Add(EmpresaModel Objeto)
         {
+
+            Objeto.TipoPessoa = 0; // para deixar desativada// aguardar avaliação de um moderador
+            Objeto.DataCadastro = DateTime.Now;
+            Objeto.DataAlteracao = DateTime.Now;
             using (var data = new ContextBase(_OptionsBuilder))
             {
                 await data.Set<EmpresaModel>().AddAsync(Objeto);
